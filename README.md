@@ -27,7 +27,7 @@ A Python script that takes as input the 2D coordinates of the top-left corner of
 - NumPy
 
 **Folder Name:**  
-`2D_Square_Transformations`
+`Geometric Transformations with OpenCV`
 
 ---
 
@@ -43,7 +43,7 @@ This project calculates homography matrices between three images of a window tak
 - NumPy (for matrix multiplication, transposition, and inversion)
 
 **Folder Name:**  
-`Homography_Calculation_NumPy`
+`Homography Calculation with NumPy`
 
 ---
 
@@ -61,7 +61,7 @@ This project involves detecting the addition of a coffee mug to a scene by:
 - NumPy
 
 **Folder Name:**  
-`Coffee_Mug_Detection`
+`Image Differencing & Thresholding`
 
 ---
 
@@ -74,7 +74,7 @@ This project involves detecting lines and circles in an image of a bicycle using
 - OpenCV
 
 **Folder Name:**  
-`Bicycle_Hough_Transform`
+`Bicycle Detection with Hough Transform`
 
 ---
 
@@ -92,7 +92,7 @@ This project detects cucumbers in images based on their green color and elongate
 - NumPy
 
 **Folder Name:**  
-`Cucumber_Detection_Measurement`
+`Cucumber Detection with OpenCV`
 
 ---
 
@@ -108,7 +108,7 @@ This project allows users to navigate through digital maps (such as Google Maps)
 - NumPy
 
 **Folder Name:**  
-`Map_Navigation_Virtual_Gestures`
+`Map Navigation`
 
 ---
 
@@ -123,7 +123,7 @@ This project utilizes the YOLO (You Only Look Once) algorithm for real-time obje
 - Python
 
 **Folder Name:**  
-`YOLO_Object_Detection`
+`YOLO Object Detection`
 
 ---
 
