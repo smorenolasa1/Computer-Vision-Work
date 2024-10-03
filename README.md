@@ -130,5 +130,5 @@ This project utilizes the YOLO (You Only Look Once) algorithm for real-time obje
 ## How to Run the Projects
 
 1. Clone the repository or download the individual project folders.
-2. Ensure Python 3.x and required libraries are installed (see below).
+2. Ensure Python 3.x and required libraries are installed.
 3. Run the respective Python scripts from each project directory.
